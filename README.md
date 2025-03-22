@@ -23,13 +23,15 @@ cd Amazon_Website
 Then, open index.html in your browser.
 
 Project Directory Structure
-
 Amazon_Website/
 ├── assets/          # Images, icons, and other assets
 ├── styles/          # CSS files
 ├── index.html       # Main HTML file
 ├── README.md        # Documentation
 ├── LICENSE          # License file (if applicable)
+
+
+
 Deployment
 The project is deployed using GitHub Pages. You can access the live version here.
 
@@ -39,18 +41,18 @@ Below is a preview of the project:
 ![Screenshot 2025-03-23 002002](https://github.com/user-attachments/assets/8e4d3fe7-e60f-4d83-a779-3ed256db2da1)
 
 
-Contributing
-If you'd like to contribute:
+##If you'd like to contribute:
 
-Fork the repository
+1.)Fork the repository
 
-Create a new branch (git checkout -b feature-branch)
+2.)Create a new branch (git checkout -b feature-branch)
 
-Commit your changes (git commit -m "Added new feature")
+3.)Commit your changes (git commit -m "Added new feature")
 
-Push to the branch (git push origin feature-branch)
+4.)Push to the branch (git push origin feature-branch)
 
-Open a pull request
+5.)Open a pull request
 
-Contact
-<a href="https://github.com/Jayasurya28"> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/> </a> ```
+#Contact:
+
+GitHub:https://github.com/Jayasurya28
